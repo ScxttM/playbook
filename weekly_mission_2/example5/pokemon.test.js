@@ -1,4 +1,4 @@
-import Pokemon from './pokemon'
+import Pokemon from './main'
 
 test('1) Create a new object pokemon', () => {
   const myPokemon = new Pokemon('Pikachu')
